@@ -10,10 +10,17 @@
 ### Connect with me:
 
 
-<a href="https://www.linkedin.com/in/valentyna-skirska-a119a0244">Valentyna Skirska on LinkedIn</a><img src="linkedin.png" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/valentyna-skirska-a119a0244"></a><img src="linkedin.png" width="30" height="30"></a>
 
 <a href="https://www.instagram.com/skyrska_valentina/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6rI8jHWnbyU4I6j9t7aLBtpZTxy9WHrW3A&usqp=CAU" width="30" height="30"></a>
 
+<style>
+a {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+ </style>
 
 <!-- [![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6rI8jHWnbyU4I6j9t7aLBtpZTxy9WHrW3A&usqp=CAU)](https://www.instagram.com/skyrska_valentina/) -->
 
