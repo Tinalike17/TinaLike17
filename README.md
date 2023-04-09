@@ -14,13 +14,13 @@
 
 <a href="https://www.instagram.com/skyrska_valentina/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6rI8jHWnbyU4I6j9t7aLBtpZTxy9WHrW3A&usqp=CAU" width="30" height="30"></a>
 
-<style>
+<styles>
 a {
   display: inline-block;
   margin-right: 10px;
 }
 
- </style>
+ </styles>
 
 <!-- [![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6rI8jHWnbyU4I6j9t7aLBtpZTxy9WHrW3A&usqp=CAU)](https://www.instagram.com/skyrska_valentina/) -->
 
