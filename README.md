@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/valentyna-skirska-a119a0244" target="_blank">
     <img src="linkedin.png" alt="LinkedIn" width="28" height="28" style="margin-right: 10px;">
   </a>
-  <a href="https://www.instagram.com/skyrska_valentina?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6rI8jHWnbyU4I6j9t7aLBtpZTxy9WHrW3A&usqp=CAU" alt="Instagram" width="30" height="30">
+  <a href="https://www.instagram.com/skyrska_valentina?igshid=YmMyMTA2M2Y=" target="_blank"><img src="instagram.png" alt="Instagram" width="30" height="30">
   </a>
 </div>
 
